@@ -30,6 +30,8 @@ code generation tool for Luau.
   the long term, is to support ease of use and dynamic patterns
   without sacrificing performance or types.
 
+- Documentation; contributions are open, this will come with a full release
+
 - Delta Compression & Streaming Structs
 
 - Type Validation
